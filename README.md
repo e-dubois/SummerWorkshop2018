@@ -12,10 +12,10 @@
 Learning to use Github, etc.
 
 
-'''python
+```python
 # This is a comment
 def factorial(x):
   if x == 1
    return 1;
    else:
-   return x * factorial (-1)'''
+   return x * factorial (-1)```
